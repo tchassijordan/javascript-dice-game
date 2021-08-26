@@ -8,6 +8,11 @@ html, body {
     padding: 0;
 }
 
+* {
+
+    margin: .5em;
+}
+
 body {
     padding-top: 25px;
     background-image: linear-gradient(135deg, var(--color-1) , var(--color-2));
@@ -22,13 +27,17 @@ body {
     margin: 0 auto;
     background-color: white;
     box-shadow: -2px 6px 18px 3px rgba(0,0,0,0.75);
-    padding: 25px 50px 0px;
+    padding: 20px 50px 0px;
 }
 
 .players {
     width: 100%;
     display: flex;
     justify-content: space-around;
+}
+
+.players h1 {
+    font-size: 30px;  
 }
 
 .dice {
