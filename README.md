@@ -2,6 +2,8 @@
 
 Heyo, Here I created a dual player dice game using javascript. I also used the browser's built-in ```localStorage``` to persist my game's data since it's very little.
 
+<a href="http://ijordan.tech/javascript-dice-game/">Click here to play this Dice Game</a>
+
 ### How to play 
 - The game start's when a player rolls the dice for the first time, his score is recorded and counter passes to the next player.
 
