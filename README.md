@@ -10,14 +10,14 @@ Heyo, Here I created a dual player dice game using javascript. I also used the b
 - The nnumber of rounds each player has won can be resetted using the __Reset Rounds__ button.
 <br>
 <br>
-<img src="images/reset-rounds.png" alt="reset rounds button">
+<img src="./docs/images/reset-rounds.png" alt="reset rounds button">
 
 - A record of the number of rounds each player has won is shown in the __highest score__ section.
 
 ---
 
 ## Preview
-<img src="./images/game-preview.png" alt="game preview">
+<img src="./docs/images/game-preview.png" alt="game preview">
 
 ---
 
@@ -32,11 +32,6 @@ Heyo, Here I created a dual player dice game using javascript. I also used the b
 ## Contributors
  <a href="https://github.com/tchassijordan">
  tchassi jordan</a>
-
----
-
-## Contributing 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
 
